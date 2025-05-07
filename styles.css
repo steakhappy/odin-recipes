@@ -1,0 +1,27 @@
+.heading{background-color:blueviolet;
+text-align: center;
+color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 25px;
+font-size: large;}
+
+.lasagna{background-color: blueviolet;
+text-align: center;
+color: black;
+text-decoration: none;
+font-weight: bold;
+font-size: xx-large;}
+
+.pizza{background-color: blueviolet;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: xx-large;}
+
+ .tacobake{background-color: blueviolet;       
+     text-align: center;
+        color: black;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: xx-large;}
